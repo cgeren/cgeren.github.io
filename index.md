@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: Me in a Nutshell
+title: About Me
 description: "Caleb Geren's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
