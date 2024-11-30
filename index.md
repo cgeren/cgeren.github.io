@@ -7,7 +7,7 @@ image:
   feature: cloudpeak.png
 ---
 
-I am a research assistant at Lehigh University's <a href="https://wordpress.lehigh.edu/sss/" target="_blank">Scalable Systems Software Lab</a>.
+I am an undergraduate research assistant at Lehigh University's <a href="https://wordpress.lehigh.edu/sss/" target="_blank">Scalable Systems Software Lab</a> obtaining a B.S. in Computer Science and Engineering and a B.A. in Mathematics.
 
 <br />
 As a computer scientist and mathematician, my research sits at the intersection of applied cryptography and systems software.
