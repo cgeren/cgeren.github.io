@@ -25,7 +25,7 @@ bing_verify:
 # For external links add external: true
 links:s
   - title: Curriculum
-    url: /images/CV/academic_cv.pdf"
+    url: /images/CV/academic_cv.pdf
     external: true
   - title: Publications
     url: /publications/
