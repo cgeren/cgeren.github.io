@@ -23,9 +23,10 @@ bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
+links:s
   - title: Curriculum
-    url: /cv/
+    url: /images/CV/academic_cv.pdf"
+    external: true
   - title: Publications
     url: /publications/
 
