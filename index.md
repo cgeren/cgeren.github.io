@@ -7,7 +7,7 @@ image:
   feature: cloudpeak.png
 ---
 
-I am an PhD student at the Univeristy of Utah's Kahlert School of Computing. I am fortunate to be advised by <a href="https://users.cs.utah.edu/~psoni/" target="_blank">Pratik Soni</a>.
+I am a PhD student at the Univeristy of Utah's Kahlert School of Computing. I am fortunate to be advised by <a href="https://users.cs.utah.edu/~psoni/" target="_blank">Pratik Soni</a>.
 
 <br />
 As a computer scientist and mathematician, my research touches both theoretical and applied computer science.
