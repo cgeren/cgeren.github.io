@@ -14,6 +14,10 @@
     </url>
     
     <url>
+        <loc>http://localhost:5000/climbing/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:5000/code/</loc>
     </url>
     

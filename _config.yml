@@ -28,6 +28,8 @@ links:
     url: /publications/
   - title: Curriculum
     url: /cv/
+  - title: Rock Climbing
+    url: /climbing/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
