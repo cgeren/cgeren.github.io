@@ -12,6 +12,21 @@
   .bottom-small {
      margin-bottom: 1cm;
    }
+  .cv-download {
+    margin-bottom: 1.5em;
+  }
+  .cv-pages {
+    max-width: 800px;
+  }
+  .cv-page {
+    margin: 0 0 2em;
+  }
+  .cv-page img {
+    display: block;
+    width: 100%;
+    height: auto;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+  }
 </style>
 </head>
 
@@ -44,12 +59,19 @@
   <article>
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
-      <object class="pdf" 
-        data="{{ site.url }}/images/CV/academic_cv.pdf"
-        width="800"
-        height="1000"
-        position: absolute>
-      </object>
+      <p class="cv-download">
+        <a href="{{ '/images/CV/academic_cv.pdf' | relative_url }}">Download the CV as a PDF</a>
+      </p>
+      <div class="cv-pages">
+        {% assign cv_pages = "1,2,3" | split: "," %}
+        {% for page_number in cv_pages %}
+          <figure class="cv-page">
+            <img src="{{ '/images/CV/academic_cv-page-' | append: page_number | append: '.png' | relative_url }}"
+                 alt="CV page {{ page_number }}"
+                 loading="lazy">
+          </figure>
+        {% endfor %}
+      </div>
     </div><!-- /.article-wrap -->
     {% if site.disqus_shortname and page.comments %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
