@@ -13,4 +13,5 @@ I am a PhD student at the Univeristy of Utah's Kahlert School of Computing. I am
 As a computer scientist and mathematician, my research touches both theoretical and applied computer science.
 
 <br />
-Currently, I study zero-knowledge proof systems, (i.e. SNARKs) and attempt to make them more time and space efficient in terms of prover overhead while maintaining reasonable verification demands, especially where our primitives can be post-quantum. Generally, I am interested in developing efficient privacy preserving systems to accomodate an internet which can be decentralized and trustless.
+Currently, I study zero-knowledge proof systems, (i.e. SNARKs) and attempt to make them more time and space efficient in terms of prover overhead while maintaining reasonable verification demands, especially where our primitives can be post-quantum.
+I am also interested in the usability of zero-knowledge systems, and other aspects of their practical realization apart from prover and verifier time. Generally, I am interested in developing efficient privacy preserving systems to accomodate an internet which can be decentralized and trustless.

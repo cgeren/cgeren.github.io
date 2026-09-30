@@ -69,7 +69,9 @@ body_class: climbing-page
   }
 </style>
 
-<p class="climbing-intro">Some recent climbs.</p>
+<p class="climbing-intro">I like to think that whatever it is that draws me to cryptography is also what
+draws me to pursue rock climbing as a sport. While I don't know what that might be, it is a big part of
+my life. Here are a few photos of some of my recent climbs.</p>
 
 <div class="climbing-gallery">
   {% for photo in site.data.climbing %}
