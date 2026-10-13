@@ -1,0 +1,11 @@
+.research-update {
+  margin-top: 1.75em;
+  padding: 1em 1.2em;
+  border-left: 4px solid #343434;
+  background: #eeeeee;
+  font-size: 0.9375rem;
+}
+
+.research-update strong {
+  color: #343434;
+}
