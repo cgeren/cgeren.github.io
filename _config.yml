@@ -26,9 +26,9 @@ bing_verify:
 links:
   - title: Publications
     url: /publications/
-  - title: Curriculum
+  - title: CV
     url: /cv/
-  - title: Rock Climbing
+  - title: Climbing
     url: /climbing/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
